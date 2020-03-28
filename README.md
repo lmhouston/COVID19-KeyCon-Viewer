@@ -2,7 +2,7 @@
 
 COVID19 Keyword Convergence Viewer: 
 
-JSON to TXT Converter and Multiple Keyword Search for COVID-19 Data Set
+JSON to TXT Converter and Multiple Keyword Search for COVID-19 Data Set (CORD-19)
 
 This Powershell script provides a workflow for accessing and searching the full-text of COVID-19 research articles available here: https://pages.semanticscholar.org/coronavirus-research.
 
