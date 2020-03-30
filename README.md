@@ -15,4 +15,4 @@ NOTE: The data set currently contains about 30k JSON objects. Running a search f
 
 Apologies to Powershell PROs who will see the clunkiness of some of my scripting, but it works to get the job done! I wrote this to give better access to a wider audience of researchers who don't know what to do with JSON objects and whose insights into this data could help us solve the current COVID-19 crisis or prevent future ones.
 
-Demo video here: https://youtu.be/LgxpCJeuexk
+Demo video here: https://youtu.be/QEQ73AElMrs
